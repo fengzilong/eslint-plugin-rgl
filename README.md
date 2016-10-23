@@ -1,6 +1,6 @@
-# eslint-plugin-vue
+# eslint-plugin-rgl
 
-eslint plugin for vue component files (I mean, `.vue` files).
+eslint plugin for rgl component files (I mean, `.rgl` files).
 
 ## Installation
 
@@ -10,22 +10,22 @@ You'll first need to install [ESLint](http://eslint.org):
 $ npm i eslint --save-dev
 ```
 
-Next, install `eslint-plugin-vue`:
+Next, install `eslint-plugin-rgl`:
 
 ```
-$ npm install eslint-plugin-vue --save-dev
+$ npm install eslint-plugin-rgl --save-dev
 ```
 
-**Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-vue` globally.
+**Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-rgl` globally.
 
 ## Usage
 
-Add `vue` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
+Add `rgl` to the plugins section of your `.eslintrc` configuration file. You can omit the `eslint-plugin-` prefix:
 
 ```json
 {
     "plugins": [
-        "vue"
+        "rgl"
     ]
 }
 ```

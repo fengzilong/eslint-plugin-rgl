@@ -1,12 +1,12 @@
 {
-  "name": "eslint-plugin-vue",
-  "version": "0.1.1",
-  "description": "eslint plugin for vue components (.vue files)",
+  "name": "eslint-plugin-rgl",
+  "version": "0.0.1",
+  "description": "eslint plugin for rgl components (.rgl files)",
   "keywords": [
     "eslint",
     "eslintplugin",
     "eslint-plugin",
-    "vue",
+    "rgl",
     "linter"
   ],
   "author": "Twiknight",
@@ -34,10 +34,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Twiknight/eslint-plugin-vue.git"
+    "url": "https://github.com/fengzilong/eslint-plugin-rgl.git"
   },
   "bugs": {
-    "url": "https://github.com/Twiknight/eslint-plugin-vue/issues"
+    "url": "https://github.com/fengzilong/eslint-plugin-rgl/issues"
   },
-  "homepage": "https://github.com/Twiknight/eslint-plugin-vue/"
+  "homepage": "https://github.com/fengzilong/eslint-plugin-rgl/"
 }
